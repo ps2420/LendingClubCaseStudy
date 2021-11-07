@@ -12,11 +12,7 @@
 
 ## General Information
 - Repository contains steps required as part of "Exploratory Data Analysis" (EDA) to analyze the data.
-- The jypter note book explains the relation ship between different variables and summarized the 
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- The jypter note book explains the relation ship between different variables and summarizes the information in form of amazing graph and brings forward the statistics that can be used to predict the key points 
 
 ## Conclusions
 - Conclusion 1 from the analysis
