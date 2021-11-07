@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+> Repository contains analysis of "Lending Club" online platform which provdies loans to various people. Repository contains step by step analysis of data and represents useful informations which can be used to predict the loan of a good/bad i.e. if a user is likely to default and will not payup the loan
 
 
 ## Table of Contents
@@ -11,8 +11,8 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
+- Repository contains steps required as part of "Exploratory Data Analysis" (EDA) to analyze the data.
+- The jypter note book explains the relation ship between different variables and summarized the 
 - What is the business probem that your project is trying to solve?
 - What is the dataset that is being used?
 
@@ -28,21 +28,19 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python 3.2.1, Panda, Seaborn & Matplot lib
+- All the version of softwares were installed as part of Anaconda package, which packages most of the libraries used for Data Science.
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by upgrad online learning community https://www.upgrad.com/
+- This project was based on Exploratory Data Analysis (EDA) module from upgrade community
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@ps2420] - feel free to contact me!
 
 
 <!-- Optional -->
