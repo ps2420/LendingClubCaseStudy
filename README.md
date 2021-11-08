@@ -15,12 +15,9 @@
 - The jypter note book explains the relation ship between different variables and summarizes the information in form of amazing graph and brings forward the statistics that can be used to predict the key points 
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- Consumers with more experience, earn more and availab high loan with high interest rate
+- As the economy progresses, consumers annual income increases, and they may take higher amount of loan compared to previous years.
+- Consumers loan amount should be reduced and examined further, across certain states & rades (except G) where consumer salary is less than 250K
 
 
 ## Technologies Used
