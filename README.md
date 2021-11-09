@@ -4,6 +4,7 @@
 
 ## Table of Contents
 * [General Info](#general-information)
+* [Assumption](#assumption)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
@@ -13,6 +14,10 @@
 ## General Information
 - Repository contains steps required as part of "Exploratory Data Analysis" (EDA) to analyze the data.
 - The jypter note book explains the relation ship between different variables and summarizes the information in form of amazing graph and brings forward the statistics that can be used to predict the key points 
+
+## Assumption
+- Case study is limited to identify patterns and behaviors of new customers applying for the loan.
+- For existing customers, lending firm may choose to deny the loan or reduce it to a significant amount. 
 
 ## Conclusions
 - Consumers with more experience, earn more and availab high loan with high interest rate
